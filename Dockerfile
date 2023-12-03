@@ -6,4 +6,4 @@ COPY  ashraf.java .
 
 RUN javac ashraf.java
 
-CMD java Main
+CMD java ashraf
